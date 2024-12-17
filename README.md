@@ -37,3 +37,14 @@ Whether developing feature-rich mobile apps, dynamic web portals, or API-driven 
 | Blockchain | Artificial Intelligence |
 | :---- | :---- |  
 | Ethereum, Solidity, Hyperledger | TensorFlow, Keras, PyTorch |
+<!-- GitHub Stats -->
+
+<h1 align="center">My GitHub Stats</h1>
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=suptechie&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=suptechie&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=suptechie&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
