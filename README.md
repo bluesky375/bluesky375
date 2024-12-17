@@ -42,7 +42,7 @@ Whether developing feature-rich mobile apps, dynamic web portals, or API-driven 
 <h1 align="center">I use these technologies</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,py,ts,js,webpack,md,css,tailwind,bootstrap,vercel,figma,react,redux,angular,vue,c,dotnet,express,nodejs,nginx,gcp	,firebase,aws,dynamodb,laravel,php,wordpress,opencv,photoshop,discord,git,github,gitlab,bitbucket,gmail,html,java,ubuntu,spring,flutter,dart,docker" alt="Technologies">
+    <img src="https://skillicons.dev/icons?i=django,py,ts,js,webpack,md,css,tailwind,bootstrap,vercel,figma,react,angular,vue,c,dotnet,express,nodejs,nginx,gcp,firebase,aws,dynamodb,laravel,php,wordpress,opencv,photoshop,discord,git,github,gitlab,bitbucket,gmail,html,java,ubuntu,spring,flutter,dart,docker" alt="Technologies">
   </a>
 </p>
 <h3 align="center">Databases</h3>
