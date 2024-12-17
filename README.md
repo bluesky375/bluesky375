@@ -42,7 +42,7 @@ Whether developing feature-rich mobile apps, dynamic web portals, or API-driven 
 <h1 align="center">I use these technologies</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,py,ts,js,webpack,md,css,tailwind,bootstrap,vercel,figma,react,angular,vue,c,dotnet,express,nodejs,nginx,firebase,aws,laravel,php,wordpress,opencv,photoshop,discord,git,github,gitlab,gmail,html,java,ubuntu,spring," alt="Technologies">
+    <img src="https://skillicons.dev/icons?i=django,flask,py,ts,js,webpack,md,css,tailwind,bootstrap,vercel,figma,react,redux,angular,vue,c,dotnet,express,nodejs,nginx,gcp	,firebase,aws,dynamodb,laravel,php,wordpress,opencv,photoshop,discord,git,github,gitlab,bitbucket,gmail,html,java,ubuntu,spring,flutter,dart,docker,ai" alt="Technologies">
   </a>
 </p>
 <h3 align="center">Databases</h3>
@@ -58,7 +58,7 @@ Whether developing feature-rich mobile apps, dynamic web portals, or API-driven 
 <h1 align="center">My GitHub Stats</h1>
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=bluesky375&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bluesky375&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bluesky375&hide=html,css,shaderlab,hlsl&theme=radical">
 </p>
 
 <p align = "center">
